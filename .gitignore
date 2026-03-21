@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.pt
+*.pth
+.DS_Store
+*.log
+wandb/
+checkpoints/
+.env
+data/
+runs/
